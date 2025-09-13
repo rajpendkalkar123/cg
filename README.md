@@ -6,12 +6,16 @@ The game ends when the ball falls below the paddle.
 ---
 
 ## 🖼 Gameplay Preview
-https://github.com/rajpendkalkar123/cg/blob/f0cfa481e882c4ce1fb42605ab39064558832b98/Brick_Game_Demo_Video_short.mp4
+
 ---
 
 ## ✨ Features
 - 🎮 Paddle movement with arrow keys  
 - 🧱 5 rows × 10 columns of bricks  
+
+https://github.com/user-attachments/assets/03196785-a65b-47f2-abf1-dd808073c6be
+
+
 - 🏆 Score tracking in real time  
 - 🔄 Collision detection (walls, paddle, bricks)  
 - 📊 Final score display on Game Over  
